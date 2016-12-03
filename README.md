@@ -31,3 +31,7 @@ $npm run build
 },
 
 buildを通しておかないと実行できない(err)
+
+# このサンプルはnodeサーバー上でreact.jsをサーバーサイドレンダリングするものです。
+
+https://github.com/nagahamayuki/webpack/blob/master/img/material.png
