@@ -34,4 +34,9 @@ buildを通しておかないと実行できない(err)
 
 # このサンプルはnodeサーバー上でreact.jsをサーバーサイドレンダリングするものです。
 
-https://github.com/nagahamayuki/webpack/blob/master/img/material.png
+![material](https://cloud.githubusercontent.com/assets/22278305/20858637/ef2a63ae-b98c-11e6-9af9-5667b2327fb8.png)
+
+nodeサーバーをexpressで立てて、
+その中でReact.jsをサーバーサイドレンダリング。
+
+nom startにて呼びだし。
