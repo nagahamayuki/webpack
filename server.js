@@ -3,7 +3,10 @@ import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import App from './src/App.js'
 
-// init express
+
+global.navigator = { userAgent: 'all' };
+//init express
+//expressにて簡単にサーバーを立ち上げた。
 const app = express()
 
 // add top page routing
